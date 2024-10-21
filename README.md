@@ -1,2 +1,5 @@
-# py-libraries
-Introduction and demo to Python libraries
+# Introduction to Python libraries
+
+Check out the `libraries-intro-and-pandas.ipynb` notebook.
+
+
