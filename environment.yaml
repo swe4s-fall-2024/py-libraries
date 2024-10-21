@@ -1,0 +1,11 @@
+name: py-libraries
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - scipy
+  - jupyterlab
+  - notebook
+  - matplotlib
+  - scikit-learn
+prefix: /Users/erjo3868/miniforge3/envs/py-libraries
