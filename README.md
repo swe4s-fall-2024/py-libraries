@@ -1,5 +1,5 @@
 # Introduction to Python libraries
 
-Check out the `libraries-intro-and-pandas.ipynb` notebook.
+Check out the `libraries-pandas-matplotlib.ipynb` notebook.
 
 
